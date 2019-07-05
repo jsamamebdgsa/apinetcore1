@@ -1,0 +1,17 @@
+C:\SourceCode\Curso\NetCore\NetCoreApp\CatalogosApi\bin\Debug\netcoreapp2.2\CatalogosApi.deps.json
+C:\SourceCode\Curso\NetCore\NetCoreApp\CatalogosApi\bin\Debug\netcoreapp2.2\CatalogosApi.runtimeconfig.json
+C:\SourceCode\Curso\NetCore\NetCoreApp\CatalogosApi\bin\Debug\netcoreapp2.2\CatalogosApi.runtimeconfig.dev.json
+C:\SourceCode\Curso\NetCore\NetCoreApp\CatalogosApi\bin\Debug\netcoreapp2.2\CatalogosApi.dll
+C:\SourceCode\Curso\NetCore\NetCoreApp\CatalogosApi\bin\Debug\netcoreapp2.2\CatalogosApi.pdb
+C:\SourceCode\Curso\NetCore\NetCoreApp\CatalogosApi\obj\Debug\netcoreapp2.2\CatalogosApi.csprojAssemblyReference.cache
+C:\SourceCode\Curso\NetCore\NetCoreApp\CatalogosApi\obj\Debug\netcoreapp2.2\CatalogosApi.csproj.CoreCompileInputs.cache
+C:\SourceCode\Curso\NetCore\NetCoreApp\CatalogosApi\obj\Debug\netcoreapp2.2\CatalogosApi.RazorAssemblyInfo.cache
+C:\SourceCode\Curso\NetCore\NetCoreApp\CatalogosApi\obj\Debug\netcoreapp2.2\CatalogosApi.RazorAssemblyInfo.cs
+C:\SourceCode\Curso\NetCore\NetCoreApp\CatalogosApi\obj\Debug\netcoreapp2.2\CatalogosApi.AssemblyInfoInputs.cache
+C:\SourceCode\Curso\NetCore\NetCoreApp\CatalogosApi\obj\Debug\netcoreapp2.2\CatalogosApi.AssemblyInfo.cs
+C:\SourceCode\Curso\NetCore\NetCoreApp\CatalogosApi\obj\Debug\netcoreapp2.2\CatalogosApi.RazorTargetAssemblyInfo.cache
+C:\SourceCode\Curso\NetCore\NetCoreApp\CatalogosApi\obj\Debug\netcoreapp2.2\CatalogosApi.dll
+C:\SourceCode\Curso\NetCore\NetCoreApp\CatalogosApi\obj\Debug\netcoreapp2.2\CatalogosApi.pdb
+C:\SourceCode\Curso\NetCore\NetCoreApp\CatalogosApi\bin\Debug\netcoreapp2.2\Data.dll
+C:\SourceCode\Curso\NetCore\NetCoreApp\CatalogosApi\bin\Debug\netcoreapp2.2\Data.pdb
+C:\SourceCode\Curso\NetCore\NetCoreApp\CatalogosApi\obj\Debug\netcoreapp2.2\CatalogosApi.csproj.CopyComplete

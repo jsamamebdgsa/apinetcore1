@@ -1,0 +1,9 @@
+C:\SourceCode\Curso\NetCore\NetCoreApp\Data\bin\Debug\netcoreapp2.2\Data.deps.json
+C:\SourceCode\Curso\NetCore\NetCoreApp\Data\bin\Debug\netcoreapp2.2\Data.dll
+C:\SourceCode\Curso\NetCore\NetCoreApp\Data\bin\Debug\netcoreapp2.2\Data.pdb
+C:\SourceCode\Curso\NetCore\NetCoreApp\Data\obj\Debug\netcoreapp2.2\Data.csprojAssemblyReference.cache
+C:\SourceCode\Curso\NetCore\NetCoreApp\Data\obj\Debug\netcoreapp2.2\Data.csproj.CoreCompileInputs.cache
+C:\SourceCode\Curso\NetCore\NetCoreApp\Data\obj\Debug\netcoreapp2.2\Data.AssemblyInfoInputs.cache
+C:\SourceCode\Curso\NetCore\NetCoreApp\Data\obj\Debug\netcoreapp2.2\Data.AssemblyInfo.cs
+C:\SourceCode\Curso\NetCore\NetCoreApp\Data\obj\Debug\netcoreapp2.2\Data.dll
+C:\SourceCode\Curso\NetCore\NetCoreApp\Data\obj\Debug\netcoreapp2.2\Data.pdb
