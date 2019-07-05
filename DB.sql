@@ -1,0 +1,25 @@
+CREATE TABLE Categoria
+(
+	Id INT IDENTITY(1,1) NOT NULL,
+	Codigo VARCHAR(40) NOT NULL,
+	Nombre VARCHAR(MAX) NOT NULL,
+	CONSTRAINT PK_Categoria PRIMARY KEY (Id)
+)
+GO
+
+CREATE TABLE Producto
+(
+	Id INT IDENTITY(1,1) NOT NULL,
+	Codigo VARCHAR(40) NOT NULL,
+	Nombre VARCHAR(MAX) NOT NULL,
+	Creacion DATETIME NOT NULL,
+	Modificacion DATETIME NOT NULL,
+	CategoriaId INT NOT NULL,
+	CONSTRAINT PK_Producto PRIMARY KEY (Id),
+	CONSTRAINT FK_Categoria FOREIGN KEY (CategoriaId) REFERENCES Categoria(Id)
+)
+GO
+
+INSERT INTO Categoria VALUES('C0001','Artefactos Eléctricos');
+INSERT INTO Categoria VALUES('C0002','Útiles Escolares');
+INSERT INTO Categoria VALUES('C0003','Computación');
